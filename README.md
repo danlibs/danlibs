@@ -2,7 +2,7 @@
 
 
 - 🔭 Em busca de migrar para a área de TI e atuar como desenvolvedor.
-- 🌱 Atualmente desenvolvimento mobile Android nativo e Java.
+- 🌱 Estudando desenvolvimento mobile Android nativo e Java.
 - 😄 Pronomes: ele/dele
 
 <div>
