@@ -1,9 +1,10 @@
 ## Olá, eu sou o Daniel Libonati!
 
 
-- 🔭 Em busca de migrar para a área de TI e atuar como desenvolvedor.
-- 🌱 Estudando desenvolvimento mobile Android nativo e Java.
+- 🔭 Em busca de migrar para a área de TI e atuar como desenvolvedor
+- 🌱 Estudando desenvolvimento mobile Android nativo e Java
 - 😄 Pronomes: ele/dele
+- 👽 Apaixonado por ficcção científica, romances históricos e fantasia
 
 <div>
   <a href="https://github.com/danlibs">
