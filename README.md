@@ -30,3 +30,6 @@
   <a href="https://twitter.com/daniel_libonati" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:danlibs00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  
+![Snake animation](https://github.com/danlibs/danlibs/blob/output/github-contribution-grid-snake.svg)
+
