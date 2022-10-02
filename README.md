@@ -20,9 +20,6 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
-  <img align="right" alt="Danlibs-pic" height="150" style="border-radius:50px;" src="https://scontent.fbel1-1.fna.fbcdn.net/v/t1.6435-9/91248323_3621806427893122_5938206742474129408_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeH7tN1BpDP0Sm9t-iWzSZax9pbLBm6FSgv2lssGboVKC-L4lDXCNabQWWzJYbBj-k13MA2GVoHPbHXd1uGKmzr4&_nc_ohc=KMGMVDtCMnwAX9YI-Jg&tn=OOLUuHR-nkdWmCvg&_nc_ht=scontent.fbel1-1.fna&oh=00_AT9MHs04bapklX3AKFp7cRdnIUBfSy6j0OVeepms9zKoTg&oe=62182C6D">
-</div>
-
 ### Redes sociais
           
 <div> 
