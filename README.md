@@ -1,10 +1,5 @@
 ## Olá, eu sou o Daniel Libonati!
 
-
-- 🔭 Professor
-- 😄 Pronomes: ele/dele
-- 👽 Apaixonado por ficcção científica, romances históricos e fantasia
-
 <div>
   <a href="https://github.com/danlibs">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=danlibs&show_icons=true&theme=tokyonight&includ_all_commits=true&count_private=true"/>
